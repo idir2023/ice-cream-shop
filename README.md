@@ -16,3 +16,4 @@ Heladeria Ecommerce  construida en React, Laravel, tailwind y inertiajs
 
 ![screenshot-10](/public/screenshot/screenshot-6.png)
 
+# ice-cream-shop
